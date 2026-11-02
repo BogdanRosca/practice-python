@@ -1,13 +1,10 @@
 # practice-python
 
-Daily ~20-minute Python practice, prepared automatically each morning.
+Daily ~20-minute Python practice for an intermediate developer. No testing material here.
 
 ## How it works
-1. A new branch `day-NNN-<topic>` and a pull request appear each day.
-2. Check out the branch and read `days/day-NNN-*/LESSON.md` (~5 min).
-3. Implement the stubs in `exercise.py` (~15 min).
-4. Run `pip install -r requirements.txt && pytest days/day-NNN-<topic>`.
-5. Commit your solution, then merge the PR.
-6. The next morning's run reviews merged days (`REVIEW.md`) and updates `PROGRESS.md`.
+1. Each day a branch `day-NNN-<topic>` and a PR appear with a **theory lesson** (`LESSON.md`, ~5 min read) and an **assignment** (`ASSIGNMENT.md`, ~15 min).
+2. Read the lesson, then write your solution yourself in `days/day-NNN-<topic>/solution.py`, push it to the same branch and merge the PR.
+3. The next morning your merged solution is reviewed (`REVIEW.md`) and `PROGRESS.md` is updated.
 
-Unmerged days are marked "skipped" - no pressure.
+Lessons build on each other and skip the absolute basics; see `CURRICULUM.md`.
