@@ -6,3 +6,4 @@
 | 002 | 2026-11-03 | Properties, descriptors & encapsulation | All requirements met, bonus half done (no `Money.apply`) | Great Bounded/immutable Money; unset-descriptor error message, subclass-friendly `with_amount` (see REVIEW.md) |
 | 003 | 2026-11-08 | Inheritance, super() & MRO | | |
 | 004 | 2026-11-11 | Container & operator dunders | | |
+| 005 | 2026-11-12 | Iterators & generators | | |
