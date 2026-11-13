@@ -7,3 +7,4 @@
 | 003 | 2026-11-08 | Inheritance, super() & MRO | | |
 | 004 | 2026-11-11 | Container & operator dunders | | |
 | 005 | 2026-11-12 | Iterators & generators | | |
+| 006 | 2026-11-13 | Dataclasses & type hints | | |
