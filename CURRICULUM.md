@@ -6,7 +6,7 @@
 4. Dunder methods for containers & operators (`__len__`, `__getitem__`, `__add__`, ...) (done: Day 004)
 5. Iterators & generators (building on custom containers) (done: Day 005)
 6. Dataclasses & type hints (done: Day 006)
-7. Context managers & decorators
+7. Context managers & decorators (done: Day 007)
 8. Exceptions & custom exception hierarchies
 9. Protocols/ABCs & duck typing
 10. `collections`, `itertools`, `functools`
