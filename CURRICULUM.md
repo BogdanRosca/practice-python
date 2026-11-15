@@ -7,7 +7,7 @@
 5. Iterators & generators (building on custom containers) (done: Day 005)
 6. Dataclasses & type hints (done: Day 006)
 7. Context managers & decorators (done: Day 007)
-8. Exceptions & custom exception hierarchies
+8. Exceptions & custom exception hierarchies (done: Day 008)
 9. Protocols/ABCs & duck typing
 10. `collections`, `itertools`, `functools`
 
