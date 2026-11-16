@@ -8,7 +8,7 @@
 6. Dataclasses & type hints (done: Day 006)
 7. Context managers & decorators (done: Day 007)
 8. Exceptions & custom exception hierarchies (done: Day 008)
-9. Protocols/ABCs & duck typing
+9. Protocols/ABCs & duck typing (done: Day 009)
 10. `collections`, `itertools`, `functools`
 
 Order may adapt to progress.

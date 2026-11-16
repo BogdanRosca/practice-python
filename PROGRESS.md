@@ -10,3 +10,4 @@
 | 006 | 2026-11-13 | Dataclasses & type hints | | |
 | 007 | 2026-11-14 | Context managers & decorators | | |
 | 008 | 2026-11-15 | Exceptions & custom exception hierarchies | | |
+| 009 | 2026-11-16 | Protocols, ABCs & duck typing | | |
