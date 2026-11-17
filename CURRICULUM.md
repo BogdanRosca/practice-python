@@ -9,6 +9,11 @@
 7. Context managers & decorators (done: Day 007)
 8. Exceptions & custom exception hierarchies (done: Day 008)
 9. Protocols/ABCs & duck typing (done: Day 009)
-10. `collections`, `itertools`, `functools`
+10. `collections`, `itertools`, `functools` (done: Day 010)
+11. Closures, `functools.wraps` & parametrised decorators in depth
+12. `pathlib`, file I/O & `logging`
+13. `asyncio` basics
+14. Concurrency: threads vs processes
+15. Performance & big-O, profiling
 
 Order may adapt to progress.

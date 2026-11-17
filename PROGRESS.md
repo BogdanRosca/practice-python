@@ -11,3 +11,4 @@
 | 007 | 2026-11-14 | Context managers & decorators | | |
 | 008 | 2026-11-15 | Exceptions & custom exception hierarchies | | |
 | 009 | 2026-11-16 | Protocols, ABCs & duck typing | | |
+| 010 | 2026-11-17 | collections, itertools & functools | | |
