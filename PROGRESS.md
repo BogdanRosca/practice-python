@@ -12,4 +12,5 @@
 | 008 | 2026-11-15 | Exceptions & custom exception hierarchies | skipped | PR not merged |
 | 009 | 2026-11-16 | Protocols, ABCs & duck typing | skipped | PR not merged |
 | 010 | 2026-11-17 | collections, itertools & functools | skipped | PR not merged |
-| 011 | 2026-11-18 | pathlib, file I/O & logging | | |
+| 011 | 2026-11-18 | pathlib, file I/O & logging | skipped | PR not merged |
+| 012 | 2026-11-19 | Closures & advanced decorators | | |

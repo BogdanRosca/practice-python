@@ -10,7 +10,7 @@
 8. Exceptions & custom exception hierarchies (done: Day 008)
 9. Protocols/ABCs & duck typing (done: Day 009)
 10. `collections`, `itertools`, `functools` (done: Day 010)
-11. Closures, `functools.wraps` & parametrised decorators in depth
+11. Closures, `functools.wraps` & parametrised decorators in depth (done: Day 012)
 12. `pathlib`, file I/O & `logging` (done: Day 011)
 13. `asyncio` basics
 14. Concurrency: threads vs processes
