@@ -12,7 +12,7 @@
 10. `collections`, `itertools`, `functools` (done: Day 010)
 11. Closures, `functools.wraps` & parametrised decorators in depth (done: Day 012)
 12. `pathlib`, file I/O & `logging` (done: Day 011)
-13. `asyncio` basics
+13. `asyncio` basics (done: Day 013)
 14. Concurrency: threads vs processes
 15. Performance & big-O, profiling
 
