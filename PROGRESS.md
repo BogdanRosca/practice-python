@@ -14,4 +14,5 @@
 | 010 | 2026-11-17 | collections, itertools & functools | skipped | PR not merged |
 | 011 | 2026-11-18 | pathlib, file I/O & logging | skipped | PR not merged |
 | 012 | 2026-11-19 | Closures & advanced decorators | skipped | PR not merged |
-| 013 | 2026-11-20 | asyncio basics | | |
+| 013 | 2026-11-20 | asyncio basics | skipped | PR not merged |
+| 014 | 2026-11-21 | Concurrency: threads vs processes | | |
